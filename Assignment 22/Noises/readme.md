@@ -12,5 +12,6 @@ Original photo:
 Photo + noise effect:
 
 
-![Uploading noisey_effect.jpg…]()
+![noisey_effect](https://user-images.githubusercontent.com/88210093/145553639-10998443-847a-4f50-9b8c-5689b6112731.jpg)
+
 
