@@ -1,7 +1,11 @@
 Sudoko detector using Opencv python library 1.This code detects any sudoku table:
 
 Terms of use :
+
+
 Type this script in cmd :
+
+
 python Sudoku.py [--input enter your output image path here] [--filter-size enter your convolotion filtersize here]  [--output enter your output image path here]
 
 
