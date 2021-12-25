@@ -35,16 +35,14 @@ Cropped image Result:
 
 2.This code is able to detect any sudoku table through live webcam:
 
-
+Result1:
 
 https://user-images.githubusercontent.com/88210093/147385893-3249835d-4b5b-45bf-b59f-f3eefab6a22e.mp4
 
 
 
-https://user-images.githubusercontent.com/88210093/147385901-7ef5e91d-d905-4c7c-931f-55a56d541c0b.mp4
+Result2:
 
-
-
-https://user-images.githubusercontent.com/88210093/147385886-fd73cd44-964c-487e-a029-1d2f188e9104.mp4
+https://user-images.githubusercontent.com/88210093/147385911-01043f2f-0baa-47be-9473-a6b41c0505c4.mp4
 
 
